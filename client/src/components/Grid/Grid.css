@@ -1,0 +1,12 @@
+.grid {
+    min-height: 30vh;
+}
+
+.btn__capitalize {
+    text-transform: capitalize;
+}
+
+.btn:active, .btn:focus, .btn:hover {
+    box-shadow: none!important;
+    outline: 0;
+}

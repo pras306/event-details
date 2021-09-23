@@ -1,0 +1,13 @@
+.input-form{
+    min-height: 30vh;
+}
+
+.btn:active, .btn:focus, .btn:hover {
+    box-shadow: none!important;
+    outline: 0;
+}
+
+.badge-primary {
+    background-color: dodgerblue;
+    margin: 0 1em;
+}

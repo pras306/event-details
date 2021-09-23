@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "event_title": "Birthday Party",
+    "event_description": "Jon's 30th birthday party",
+    "event_date": "2021/10/22",
+    "event_start_time": "7:30 PM",
+    "event_length": "2 hours",
+    "event_status": "Active"
+  },
+  {
+    "id": 2,
+    "event_title": "Wedding Party",
+    "event_description": "Jim and Susan's wedding party",
+    "event_date": "2022/03/22",
+    "event_start_time": "10:00 AM",
+    "event_length": "About 6 hours",
+    "event_status": "Active"
+  },
+  {
+    "id": 3,
+    "event_title": "Football Tournament",
+    "event_description": "Under 14 football tournament",
+    "event_date": "2022/02/10",
+    "event_start_time": "9:30 AM",
+    "event_length": "2-3 weeks",
+    "event_status": "Active"
+  },
+  {
+    "id": 4,
+    "event_title": "XYZ Alumni Reunion",
+    "event_description": "Reunion party for 2010/11 Batch",
+    "event_date": "2021/11/05",
+    "event_start_time": "6:30 PM",
+    "event_length": "3 hours",
+    "event_status": "Active"
+  },
+  {
+    "id": 5,
+    "event_title": "Toronto Maple Leafs Watch Party",
+    "event_description": "Watch Party for this weekends match of Maple Leafs vs Canadiens",
+    "event_date": "2021/09/26",
+    "event_start_time": "7:00 PM",
+    "event_length": "About 2 hours",
+    "event_status": "Active"
+  }
+]
