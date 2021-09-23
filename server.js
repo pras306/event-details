@@ -23,11 +23,11 @@ app.use("/api", api);
 
 //////////////////////////////////////////ERROR HANDLING///////////////////////////////////////////////
 //Handle basic routing errors
-app.use((req, res, next) => {
-    const error = new Error('Not Found');
-    error.status = 404;
-    next(error);
-});
+// app.use((req, res, next) => {
+//     const error = new Error('Not Found');
+//     error.status = 404;
+//     next(error);
+// });
 
 //Handle errors thrown from anywhere else in the app
 app.use((err, req, res, next) => {
